@@ -168,7 +168,6 @@ body {
   color: #ff4edb;
   margin: 0.5rem 0;
   position: relative;
-  top: 15px;
   z-index: 1;
   text-shadow: 0 0 5px #f9d4f9, 0 0 25px #ffc6f0, 0 0 10px #f97dd0;
   letter-spacing: 5px;
@@ -181,8 +180,6 @@ body {
   line-height: 1;
   text-transform: uppercase;
   margin: 1rem 0;
-  position: relative;
-  top: -20px;
   color: white;
 }
 
